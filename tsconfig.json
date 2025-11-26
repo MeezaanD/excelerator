@@ -1,0 +1,32 @@
+{
+  // https://nuxt.com/docs/guide/concepts/typescript
+  "files": [],
+  "compilerOptions": {
+    "types": [
+      "@nuxt/types",
+      "vue"
+    ],
+    "paths": {
+      "#app": [
+        "./.nuxt/types/app"
+      ]
+    }
+  },
+  "vueCompilerOptions": {
+    "globalTypesPath": "./.nuxt/types/vue-global.d.ts"
+  },
+  "references": [
+    {
+      "path": "./.nuxt/tsconfig.app.json"
+    },
+    {
+      "path": "./.nuxt/tsconfig.server.json"
+    },
+    {
+      "path": "./.nuxt/tsconfig.shared.json"
+    },
+    {
+      "path": "./.nuxt/tsconfig.node.json"
+    }
+  ]
+}
