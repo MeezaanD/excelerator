@@ -1,0 +1,34 @@
+{
+	// Formatting & Prettier
+	"editor.formatOnSave": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	// Tabs & Indentation
+	"editor.insertSpaces": false, // Use tabs, not spaces
+	"editor.tabSize": 4, // Tab width = 4
+	"editor.detectIndentation": false, // Don’t override with file settings
+	// Show invisible characters (like those tab arrows)
+	"editor.renderWhitespace": "all",
+	"editor.guides.indentation": true,
+	"editor.guides.highlightActiveIndentation": true,
+	// Clean up on save
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true,
+	"editor.fontLigatures": true,
+	"editor.fontSize": 14,
+	"editor.lineHeight": 1.6
+}
