@@ -15,7 +15,7 @@ Excelerator streamlines Excel and CSV workflows by providing:
 
 ## Key Features
 
-### 📁 File Handling
+### File Handling
 - Upload **Excel (.xlsx, .xls)** and **CSV** files
 - Drag-and-drop or file browser support
 - Reliable file parsing powered by the `xlsx` library
