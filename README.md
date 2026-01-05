@@ -72,7 +72,7 @@ Excelerator is ideal for:
 - Lightweight data manipulation tasks
 - Collaborative workflows and browser-based access
 
-Perfect for users who want speed, simplicity, and flexibility—without desktop app friction.
+Perfect for users who want speed, simplicity, and flexibility without desktop app friction.
 
 ---
 
