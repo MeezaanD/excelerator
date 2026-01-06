@@ -332,7 +332,7 @@
 		<!-- Footer -->
 		<footer class="relative py-16 px-4 sm:px-6 lg:px-8 border-t border-gray-800 bg-gray-950">
 			<div class="max-w-7xl mx-auto text-center space-y-4">
-				<p class="text-gray-400">© 2025 Excelerator</p>
+				<p class="text-gray-400">© 2025 Excelerator by Meezaan Davids</p>
 				<p class="text-sm text-gray-500">
 					Built with Nuxt 4, Vue 3 & Tailwind CSS
 				</p>
